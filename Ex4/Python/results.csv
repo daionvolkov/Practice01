@@ -8,4 +8,15 @@ Time with multithreading: 0.0240 secondsIn Python
 2023-04-14 20:17:13
 Time without multithreading: 0.0200 secondsIn Python
 2023-04-14 20:17:13
-Time with multithreading: 0.0232 seconds
+Time with multithreading: 0.0232 secondsIn C#
+2023-04-18 15:47:39
+Time without multithreading: 0,0437 seconds
+In C#
+2023-04-18 15:47:39
+Time with multithreading: 0,0971 seconds
+In Java
+2023-04-18T16:17:03.244514400
+Time without multithreading: 0,0091 seconds
+In Java
+2023-04-18T16:17:03.275765700
+Time with multithreading: 0,0209 seconds
